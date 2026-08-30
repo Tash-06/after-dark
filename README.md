@@ -200,8 +200,7 @@ const FACES = {
   },
   unleashed: {
     actions: ["Rip open", "Pin down and bite", "Slowly undress while kissing", "Command them to strip, then", "Grip hard and", "Take control and", "Whisper a filthy command, then", "Trail kisses lower until they beg"],
-    spots: ["Wherever makes them gasp", "Whatever you unzip first", "The one place they've been waiting all night", "Wherever you're told to", "Chest, slow and deliberate", "Backside, gripped and pulled close", "Lower, and lower still", "Wherever they can't say no to", "The spot that ends the game", "Anywhere skin meets skin"]
-  }
+    spots: ["Wherever makes them gasp", "Whatever you unzip first", "The one place they've been waiting all night", "Wherever you're told to", "Chest, slow and deliberate", "Backside, gripped and pulled close", "Lower, and lower still", "Wherever they can't say no to", "The spot that ends the game", "Anywhere skin meets skin"]}
 };
 
 let tier = 'mild';
